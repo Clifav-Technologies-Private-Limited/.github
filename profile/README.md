@@ -1,10 +1,10 @@
-# Clifav Technologies Private Limited
+
 
 <p align="center">
   <img src="https://github.com/Clifav-Technologies-Private-Limited/.github/blob/main/clifavtech_cover.jpg" alt="Clifav Technologies Banner" width="80%" style="border-radius: 10px;">
 </p>
 
-*We make IT happen*
+
 
 ## 🚀 About Us
 Clifav Technologies Private Limited is a cutting-edge technology company specializing in software development, product innovation, and startup enablement. We help businesses build, scale, and optimize their products using industry-leading technologies and modern development practices.
