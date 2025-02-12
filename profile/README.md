@@ -1,5 +1,9 @@
 # Clifav Technologies Private Limited
 
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Clifav Technologies Banner" width="80%" style="border-radius: 10px;">
+</p>
+
 *We make IT happen*
 
 ## 🚀 About Us
