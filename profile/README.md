@@ -45,7 +45,7 @@ We excel in a wide range of modern technologies and frameworks, including:
 ## 🔗 Connect With Us
 🌐 **Website:** [www.clifav.com](https://www.clifav.com)  
 📩 **Email:** connect@clifav.com  
-📱 **LinkedIn:** [linkedin.com/company/clifav-technologies](https://www.linkedin.com/company/clifav-technologies)  
+📱 **LinkedIn:** [linkedin.com/company/clifavtech](https://www.linkedin.com/company/clifavtech)  
 🐦 **Twitter:** [@clifavtech](https://twitter.com/clifavtech)  
 
 📌 **We are always looking for collaboration and innovative ideas. Feel free to connect and discuss your next big project with us!**
