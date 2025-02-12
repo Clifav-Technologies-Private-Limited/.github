@@ -1,6 +1,6 @@
 # Clifav Technologies Private Limited
 
-![Clifav Technologies](https://your-company-logo-url.com/logo.png)  
+![Clifav Technologies Private Limited](https://drive.google.com/file/d/1fVjU1BKtbjgChnSMLAhPi0_1HX_ClTHx/view)  
 *Empowering Innovation, Building Excellence*
 
 ## 🚀 About Us
