@@ -1,7 +1,6 @@
 # Clifav Technologies Private Limited
 
-![Clifav Technologies Private Limited](https://drive.google.com/file/d/1fVjU1BKtbjgChnSMLAhPi0_1HX_ClTHx/view)  
-*Empowering Innovation, Building Excellence*
+*We make IT happen*
 
 ## 🚀 About Us
 Clifav Technologies Private Limited is a cutting-edge technology company specializing in software development, product innovation, and startup enablement. We help businesses build, scale, and optimize their products using industry-leading technologies and modern development practices.
